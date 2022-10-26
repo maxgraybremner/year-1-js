@@ -31,4 +31,14 @@ https://p5js.org/download/
 
 Assignment 2 
 -----------------------------------------------------------------------------
+1. download p5.play version 2! the newer version 3 wil not work with the program
 
+2. download p5.js library https://p5js.org/download/
+
+2. downlowd the file you wish to run from the repo.
+
+3. copy the p5.js folder into the directory.
+
+4. copy the p5.play 'lib' folder into the directory.
+
+5. run the index.html on a live server. such as node.js or the "Live Server" VScode extention.
